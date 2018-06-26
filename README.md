@@ -1,2 +1,2 @@
 # git-collab
-# Wario was here.
+# This repository is a collaboration between MBanuelos and WBanuelos.
