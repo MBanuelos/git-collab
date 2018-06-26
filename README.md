@@ -3,3 +3,5 @@
 The purpose of this repository is to introduce some of the basics to Git and GitHub, as well as the collaboration abilities.
 
 Please open the Git_Intro notebook and follow along!
+
+Yo!
