@@ -5,3 +5,4 @@ The purpose of this repository is to introduce some of the basics to Git and Git
 Please open the Git_Intro notebook and follow along!
 
 Yo!
+Hi.
